@@ -51,6 +51,7 @@ const props = defineProps({
     display: flex;
     align-items: center;
     justify-content: center;
+    color: black;
 }
 
 .modal-back {
